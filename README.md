@@ -2,7 +2,7 @@
 
 Game to beat the clock by typing random words
 
-![Preview](images/screenshot.png?raw=true)
+![Preview](screenshot.png?raw=true)
 
 ## Project Specifications
 
